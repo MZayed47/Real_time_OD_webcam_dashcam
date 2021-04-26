@@ -1,4 +1,3 @@
-/data/video
 /detections
 /checkpoints/yolov4-416/variables
 *.avi
