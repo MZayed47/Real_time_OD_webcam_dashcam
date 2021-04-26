@@ -6,3 +6,6 @@ Sample Output 1:
 
 Sample Output 2:
 ![alt text](https://github.com/MZayed47/Real_time_OD_webcam_dashcam/tree/main/output_samples/home_video.gif)
+
+Sample Output 3:
+![alt text](https://github.com/MZayed47/Real_time_OD_webcam_dashcam/tree/main/data/images/Cars.jpg)
