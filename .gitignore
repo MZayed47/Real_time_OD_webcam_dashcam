@@ -1,0 +1,7 @@
+/data
+/detections
+/checkpoints/yolov4-416/variables
+*.avi
+*.weights
+*.txt
+*.yml
